@@ -1,0 +1,100 @@
+body {
+    background-color: lightblue;
+    padding: 0;
+    margin: 0;
+  }
+  h1 {
+    color: rgb(231, 231, 231);
+    margin: 0;
+    padding: 100px;
+    font-size: 4em
+  }
+  h2 {
+    color: rgb(56, 56, 56)
+  }
+  h3 {
+    color: rgb(80, 80, 80);
+    text-align: center;
+  }
+
+  h4 {
+    color: rgb(80,80,80);
+    text-align: center;
+  }
+p {
+    color: rgb(60, 60, 60);
+    text-align: center;
+  }
+
+  .titlediv {
+    background-color: rgb(102, 102, 102);
+    text-align: center;
+    outline: 5px black solid
+  }
+  .pdiv {
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  .nexttoimagediv {
+    text-align: center;
+    font-size: 2em;
+  }
+
+  .wrappedimage {
+    float: right;
+    margin: 30px 12px 3px 4px;
+    border: 3px solid black;
+  }
+
+  .wrappedimage2 {
+    float: right;
+    margin: 30px 12px 3px 4px;
+    border: 3px solid black;
+    padding: 0px;
+  }
+
+  ul {
+    font-size: 1.5em;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+
+  table {
+    width: 100%
+  }
+
+  .Sources {
+    background-color: rgb(102, 102, 102);
+    text-align: center;
+    font-size: 0.5em;
+    margin-top: 10px;
+    padding: 3px;
+    outline: 5px black solid
+  }
+
+  .SourcesText {
+    color: rgb(102,102,102);
+    margin: 0;
+    font-size: 4em;
+    padding: 0px
+  }
+  
+  .sourcestext2 {
+    color: rgb(231, 231, 231);
+    font-size: 3em;
+    padding: 0px
+  }
+
+  .middletextsources {
+    color:rgb(231, 231, 231);
+    font-size: 3em;
+    float: center;
+    padding: 0px;
+  }
+
+  .InformationTitle {
+    color: rgb(231, 231, 231);
+    font-size: 3.5em;
+    float: center;
+    padding: 0px
+  }
